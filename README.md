@@ -1,2 +1,2 @@
-# CLASS-36-
-ZOOOOOOOOOOOOM
+# synchronousBallMovement
+Ball moving synchronously
